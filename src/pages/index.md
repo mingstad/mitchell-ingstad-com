@@ -3,7 +3,7 @@ templateKey: index-page
 title: Mitchell Ingstad
 image: /img/jumbotron.jpg
 heading: Interests
-subheading: Digital Enthusiast | Data Rights Advocate
+subheading: Digital Strategist
 mainpitch:
   title: About me
   description: About me section
